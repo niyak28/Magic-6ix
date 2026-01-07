@@ -3,6 +3,8 @@ rand = randint
 from fastapi import FastAPI
 app = FastAPI()
 
+from nicegui import ui, events
+
 suggestions = {
     "food": [
         {
@@ -104,7 +106,4 @@ def suggestion(genre: str):
             print(suggestions[gen_type][random_num])
             return suggestions[gen_type][random_num]
     
-    
-@app.get("/")
-
 

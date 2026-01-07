@@ -1,0 +1,37 @@
+suggestions = {
+    "food": [
+        "cheap eats",
+        "late-night food",
+        "dessert crawl",
+        "coffee hop",
+        "brunch spot",
+        "street food",
+        "comfort food",
+        "food market",
+        "hidden gem",
+        "trendy restaurant",
+        "takeout classics",
+        "international cuisine",
+        "waterfront food",
+        "quick bite",
+        "date-night dinner"
+    ],
+
+    "activity": [
+        "waterfront walk",
+        "park hangout",
+        "museum or gallery",
+        "neighbourhood stroll",
+        "indoor cozy activity",
+        "free activity",
+        "rainy-day plan",
+        "nighttime activity",
+        "scenic views",
+        "active / workout",
+        "solo adventure",
+        "with friends",
+        "date idea",
+        "seasonal activity",
+        "spontaneous plan"
+    ]
+}
