@@ -8,4 +8,3 @@ st.title("Magic6ix")
 
 # create filter items
 st.header("Food")
-todo_id = 
